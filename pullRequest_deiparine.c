@@ -1,3 +1,4 @@
+#include <stdio.h>
 // Programmer 1. This part must be used for the main branch. 
 int main() {
     int num1=1, num2=2;
